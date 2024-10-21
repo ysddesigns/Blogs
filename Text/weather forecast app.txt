@@ -1,0 +1,5 @@
+Let’s walk through one of my favorite projects: Weather Forecast App.
+
+From the initial idea to the final deployment, here’s everything I learned along the way: mastering API calls and integrating with OpenWeatherMap API.
+
+Key takeaways: handling asynchronous data fetching and improving UI with weather icons. #ProjectManagement #ReactNative #CodingJourney

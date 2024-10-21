@@ -1,0 +1,11 @@
+Tools of the trade! Here are my go-to tools for React and React Native development:
+
+Visual Studio Code: Versatile code editor with powerful extensions.
+
+Expo: Toolchain for quick React Native development.
+
+Redux DevTools: Debug Redux applications.
+
+Postman: Test APIs and their integrations.
+
+Git: Version control to manage your codebase.

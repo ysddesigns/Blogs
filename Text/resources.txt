@@ -1,0 +1,12 @@
+Learning never stops! Here are my top 5 resources for mastering React and React Native:
+
+Books: "Eloquent JavaScript" by Marijn Haverbeke, "React Native in Action" by Nader Dabit.
+
+Courses: Udemy's "React - The Complete Guide", Coursera's "Full-Stack Web Development with React".
+
+Websites: MDN Web Docs, freeCodeCamp.
+
+Podcasts: "Syntax", "React Native Radio".
+
+Communities: Stack Overflow, Reddit r/reactjs.
+Dive in and level up your skills! #LearnToCode #ReactNative #ContinuousLearning
